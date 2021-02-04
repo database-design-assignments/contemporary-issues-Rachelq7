@@ -1,6 +1,6 @@
 # Contemporary Issues in Data
 
-# Facial Recognition Technology
+## Facial Recognition Technology
 
 Facial recognition systems are a technology that matches a human face from a digital image against a database of faces. Advances in facial recognition technology have opened up many privacy concerns. In this assignment, I will discuss two articles debating on facial recognition technology.
 
